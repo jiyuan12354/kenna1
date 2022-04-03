@@ -90,8 +90,8 @@
                 return {
                     ...this.$page.frontmatter,
                     banner: [
-                        { src: '/banner/banner1.jpg' },
-                        { src: '/banner/banner2.jpg' },
+                        { src: '/kenna/banner/banner1.jpg' },
+                        { src: '/kenna/banner/banner2.jpg' },
                     ]
                 };
             },

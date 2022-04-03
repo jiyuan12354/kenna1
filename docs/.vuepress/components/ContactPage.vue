@@ -72,7 +72,7 @@
                 <div class="iconMessage">
                   <div class="iconMessageWrap">
                     <div class="imgPart float_left">
-                      <img src="/contact/popup_tick.png" alt>
+                      <img src="/kenna/contact/popup_tick.png" alt>
                     </div>
                     <div class="textPart">
                       <div class="title bottomBorder">謝謝</div>
@@ -81,7 +81,7 @@
                       妳的訊息已在處理中。
                       <br>
                       <br>如果就我們的服務有任何疑問，
-                      <br>請電(852) 2781 3472 或發送電郵給我們
+                      <br>請電(+86) 14715037244 或發送電郵給我們
                       <a href="mailto:mother.technology.limited@gmail.com">mother.technology.limited@gmail.com</a>。
                       <br>
                       <br>謝謝
