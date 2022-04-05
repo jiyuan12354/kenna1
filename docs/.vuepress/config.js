@@ -1,7 +1,7 @@
 module.exports = {
   title: '肯納科技',
   description: '幫妳做您想做的事',
-  base: '/',
+  base: '/kenna/',
   head: [
     [
       'link',

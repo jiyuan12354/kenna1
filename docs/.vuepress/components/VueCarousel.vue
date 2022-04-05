@@ -13,7 +13,7 @@
           ></div> -->
           <ClientOnly>
             <VueLazyBackgroundImage
-              :image-source="img.src"
+              :image-source="$withBase(img.src)"
               image-class="cam-viewport">
             </VueLazyBackgroundImage>
           </ClientOnly>

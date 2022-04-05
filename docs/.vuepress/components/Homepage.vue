@@ -24,7 +24,7 @@
                 <div class="feature fadeIn service_list" v-for="item in data.features" :key="item.title">
                     <a href="">
                         <li :class="item.tag">
-                            <img :src="item.icon">
+                            <img :src="$withBase(item.icon)">
                             <span>{{item.title}}</span>
                         </li>
                     </a>

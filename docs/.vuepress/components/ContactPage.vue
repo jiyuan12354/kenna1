@@ -72,7 +72,7 @@
                 <div class="iconMessage">
                   <div class="iconMessageWrap">
                     <div class="imgPart float_left">
-                      <img src="/contact/popup_tick.png" alt>
+                      <img :src="$withBase('/contact/popup_tick.png')" alt>
                     </div>
                     <div class="textPart">
                       <div class="title bottomBorder">謝謝</div>
