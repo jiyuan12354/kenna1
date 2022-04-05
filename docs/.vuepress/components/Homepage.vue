@@ -66,7 +66,7 @@
             </div>
             <div class="content custom"></div>
             <div class="footer">
-                {{data.footer}}
+                <a href="https://beian.miit.gov.cn"> {{data.footer}}</a>
             </div>
         </div>
     </ClientOnly>
@@ -90,8 +90,8 @@
                 return {
                     ...this.$page.frontmatter,
                     banner: [
-                        { src: '/kenna/banner/banner1.jpg' },
-                        { src: '/kenna/banner/banner2.jpg' },
+                        { src: '/banner/banner1.jpg' },
+                        { src: '/banner/banner2.jpg' },
                     ]
                 };
             },
